@@ -2742,13 +2742,13 @@ input[type=color] {
   display: inline-block;
   text-shadow: 0 1.05em var(--at-theme-primary);
   transition: translate 0.3s var(--basic-ease), text-shadow 0.1s 0.15s ease;
-  letter-spacing: -2%;
+  letter-spacing: -4%;
 }
 .at-title-anim:hover .at-title-text span {
   text-shadow: 0 1.05em currentColor;
   translate: 0 -1.2em 0;
   transition: translate 0.5s calc((var(--char) - 1) * 0.024s) var(--basic-ease), text-shadow 0.175s calc((var(--char) - 1) * 0.024s + 0.225s) ease;
-  letter-spacing: -2%;
+  letter-spacing: -4%;
 }
 .at-title-anim-inner {
   justify-content: flex-start;

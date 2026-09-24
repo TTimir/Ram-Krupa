@@ -1,0 +1,323 @@
+Uri: https://orisa-html-demo.pages.dev/
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\index.htm
+Content Type: text/html
+
+Uri: https://orisa-html-demo.pages.dev/assets/css/vendors/carouselTicker.css
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\css\vendors\carouselTicker-1.css
+Content Type: text/css
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-2.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-2.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/logo/favicon.svg
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\logo\favicon-1.svg
+Content Type: image/svg+xml
+
+e-pro.css
+Content Type: text/css
+
+Uri: https://orisa-html-demo.pages.dev/assets/css/vendors/magnific-popup.css
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\css\vendors\magnific-popup.css
+Content Type: text/css
+
+Uri: https://orisa-html-demo.pages.dev/assets/css/vendors/nice-select.css
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\css\vendors\nice-select.css
+Content Type: text/css
+
+Uri: https://orisa-html-demo.pages.dev/assets/css/vendors/odometer.css
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\css\vendors\odometer.css
+Content Type: text/css
+
+Uri: https://orisa-html-demo.pages.dev/assets/css/vendors/spacing.css
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\css\vendors\spacing.css
+Content Type: text/css
+
+Uri: https://orisa-html-demo.pages.dev/assets/css/vendors/swiper-bundle.min.css
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\css\vendors\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/icons/badge-1.svg
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\icons\badge-1.svg
+Content Type: image/svg+xml
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/icons/brand-1.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\icons\brand-1.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/icons/brand-2.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\icons\brand-2.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/icons/brand-3.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\icons\brand-3.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/icons/brand-4.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\icons\brand-4.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/icons/brand-5.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\icons\brand-5.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/icons/brand-6.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\icons\brand-6.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/bg-img-2.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\bg-img-2.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-27.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-27.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-29.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-29.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-30.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-30.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-31.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-31.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-32.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-32.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-33.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-33.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-34.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-34.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-35.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-35.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-36.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-36.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-37.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-37.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-38.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-38.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-39.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-39.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-40.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-40.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-41.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-41.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-42.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-42.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-43.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-43.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-44.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-44.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-45.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-45.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-46.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-46.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-47.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-47.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-48.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-48.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-49.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-49.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-50.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-50.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-51.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-51.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-52.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-52.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/pages/img-53.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\pages\img-53.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-10.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-10.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-11.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-11.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-12.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-12.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-13.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-13.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-14.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-14.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-15.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-15.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-16.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-16.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-17.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-17.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-18.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-18.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-19.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-19.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-6.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-6.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-7.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-7.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-8.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-8.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/avatar/avatar-9.webp
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\avatar\avatar-9.webp
+Content Type: image/webp
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/logo/favicon-dark.svg
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\logo\favicon-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/template/logo/favicon.svg
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\template\logo\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://orisa-html-demo.pages.dev/assets/imgs/video/live-bg.mov
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\imgs\video\live-bg.mov
+Content Type: video/quicktime
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/at-cursor.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\at-cursor.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/main.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/bootstrap.min.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/color-modes.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\color-modes.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/image-hover-effects.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\image-hover-effects.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/imagesloaded-pkgd.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\imagesloaded-pkgd.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/isotope.pkgd.min.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/jquery-3.7.1.min.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/jquery.appear.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/jquery.carouselTicker.min.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\jquery.carouselTicker.min.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/jquery.elevatezoom.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\jquery.elevatezoom.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/jquery.magnific-popup.min.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/jquery.odometer.min.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\jquery.odometer.min.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/nice-select.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\nice-select.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/parallax.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\parallax.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/plugin.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\plugin.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/ripple-2.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\ripple-2.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/assets/js/vendors/swiper-bundle.min.js
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\assets\js\vendors\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://orisa-html-demo.pages.dev/index-2
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\index-2.html
+Content Type: text/html
+
+Uri: https://orisa-html-demo.pages.dev/index-2-dark
+File Name: C:\Users\timir\Desktop\orisa-html-demo.pages.dev\index-2-dark.html
+Content Type: text/html
+
